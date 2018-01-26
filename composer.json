@@ -1,0 +1,21 @@
+{
+    "name":"Xphp",
+    "descrption": "A Php Framework For Student To Use！",
+    "type":"Framework",
+    "keywords":[
+        "PHP", "PHP FrameWork","Light Php FrameWork"
+    ],
+    "require": {
+        "php": ">= 7.0.0",
+        "filp/whoops":"*",
+        "symfony/var-dumper":"*",
+        "catfan/medoo":"*",
+        "twig/twig":"*"
+    },
+    "repositories": {
+        "packagist": {
+            "type": "composer",
+            "url": "https://packagist.phpcomposer.com"
+        }
+    }
+}
